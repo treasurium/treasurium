@@ -31,7 +31,7 @@ Treasurium is led by a diverse team of co-founders:
 - **[Don Jayamaha Jr.](https://www.linkedin.com/in/donjayamahajr)** — aka *Don The Gem Dealer*, blockchain strategist, author, and long-time Web3 innovator.  
 - **[Ken DiCicco](https://www.linkedin.com/in/kendicicco/)** — veteran in crypto exchange growth, top-performing BD Manager at Bitget, and former Asia Finance Director at Nasdaq-listed ATMI.  
 
-👉 [Meet the full team](../TEAM.md)
+👉 [Meet the full team](https://github.com/treasurium/treasurium/blob/main/TEAM.md)
 
 ---
 

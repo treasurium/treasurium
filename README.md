@@ -8,7 +8,7 @@ Treasurium specializes in building intelligent workflows that combine **AI agent
 
 ## 🧠 Our Vision
 
-Web3 is powerful, but it's also complicated — especially for non-technical users. Our founder, **Don Jayamaha Jr** (aka *Don The Gem Dealer*), has been in the Web3 space for over a decade and has seen this challenge firsthand. After years of building, investing, and consulting in the blockchain industry, one thing became clear:
+Web3 is powerful, but it's also complicated — especially for non-technical users. Our founders have been in the Web3 and tech industries for decades and have seen this challenge firsthand. After years of building, investing, and consulting in the blockchain industry, one thing became clear:
 
 > **AI will be the bridge to mass adoption of Web3.**
 
@@ -18,20 +18,32 @@ That's why Treasurium is focused on building AI-powered workflows, tools, and in
 
 ## 💼 What We’re Doing Now
 
-- Building public AI agents that integrate with DeFi, NFTs, and Web3 APIs
-- Creating educational workflows to help the n8n community adopt Web3
-- Leading a community of builders to collaborate on AI x Web3 use cases
+- Building public AI agents that integrate with DeFi, NFTs, and Web3 APIs  
+- Creating educational workflows to help the n8n community adopt Web3  
+- Leading a community of builders to collaborate on AI x Web3 use cases  
+
+---
+
+## 👥 Team
+
+Treasurium is led by a diverse team of co-founders:
+
+- **[Don Jayamaha Jr.](https://www.linkedin.com/in/donjayamahajr)** — aka *Don The Gem Dealer*, blockchain strategist, author, and long-time Web3 innovator.  
+- **[Ken DiCicco](https://www.linkedin.com/in/kendicicco/)** — veteran in crypto exchange growth, top-performing BD Manager at Bitget, and former Asia Finance Director at Nasdaq-listed ATMI.  
+
+👉 [Meet the full team](../TEAM.md)
 
 ---
 
 ## 🌐 Connect With Us
 
 - 🔗 Website: [treasurium.ai](https://treasurium.ai)  
-- 👤 Founder: [Don Jayamaha on LinkedIn](https://www.linkedin.com/in/donjayamaha)  
+- 👤 Don Jayamaha: [LinkedIn](https://www.linkedin.com/in/donjayamahajr)  
+- 👤 Ken DiCicco: [LinkedIn](https://www.linkedin.com/in/kendicicco/)  
 - 🧩 n8n Creator Profile: [Don The Gem Dealer on n8n](https://n8n.io/creators/don-the-gem-dealer/)  
 
 Open to collaborations, contributors, and conversation.
 
 ---
 
-*This profile represents the mission of Treasurium Capital and Treasurium AI Labs.*
+*This profile represents the mission of Treasurium Capital and Treasurium AI Labs.*  
